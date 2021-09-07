@@ -34,7 +34,11 @@
 }
 
 body {
-    background: #8acdff;
+    /*background: #8acdff;*/
+    background: linear-gradient(90deg, 
+	    rgba(325, 53, 53, 100%) 0%, 
+	    rgba(49, 44, 158, 100%) 100%
+	);
     font-family: sans-serif;
 }
 
